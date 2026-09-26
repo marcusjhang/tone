@@ -1,0 +1,19 @@
+# dependencies
+node_modules/
+
+# build output
+dist/
+dist-ssr/
+*.local
+
+# test / coverage
+coverage/
+
+# PSF local state (ledger + worktrees)
+.psf/
+
+# editor / OS
+.DS_Store
+*.log
+.vscode/
+.idea/
